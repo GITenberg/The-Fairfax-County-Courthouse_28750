@@ -1,0 +1,32 @@
+_repo: The-Fairfax-County-Courthouse_28750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28750-h/images/bcover.jpg
+creator:
+  authors:
+  - agent_name: Waldeck, Ruby
+    gutenberg_agent_id: '33516'
+    url: http://www.gutenberg.org/2009/agents/33516
+  - agent_name: Netherton, Ross De Witt
+    alias: Netherton, Ross D. (Ross De Witt)
+    birthdate: 1918
+    deathdate: 2010
+    gutenberg_agent_id: '33515'
+    url: http://www.gutenberg.org/2009/agents/33515
+description: ''
+gutenberg_issued: '2009-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28750'
+  lccn: '77084441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law -- Virginia -- Fairfax County -- History'
+- !lcc 'KF'
+- !lcsh 'Courthouses -- Virginia -- Fairfax County -- History'
+title: The Fairfax County Courthouse
+url: http://www.gutenberg.org/ebooks/28750
